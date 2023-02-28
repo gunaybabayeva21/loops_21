@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\dovrler\dovrler\bin\Debug\net6.0\dovrler.exe
+C:\Users\asus\Desktop\dovrler\dovrler\bin\Debug\net6.0\dovrler.deps.json
+C:\Users\asus\Desktop\dovrler\dovrler\bin\Debug\net6.0\dovrler.runtimeconfig.json
+C:\Users\asus\Desktop\dovrler\dovrler\bin\Debug\net6.0\dovrler.dll
+C:\Users\asus\Desktop\dovrler\dovrler\bin\Debug\net6.0\dovrler.pdb
+C:\Users\asus\Desktop\dovrler\dovrler\obj\Debug\net6.0\dovrler.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\dovrler\dovrler\obj\Debug\net6.0\dovrler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\dovrler\dovrler\obj\Debug\net6.0\dovrler.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\dovrler\dovrler\obj\Debug\net6.0\dovrler.AssemblyInfo.cs
+C:\Users\asus\Desktop\dovrler\dovrler\obj\Debug\net6.0\dovrler.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\dovrler\dovrler\obj\Debug\net6.0\dovrler.dll
+C:\Users\asus\Desktop\dovrler\dovrler\obj\Debug\net6.0\refint\dovrler.dll
+C:\Users\asus\Desktop\dovrler\dovrler\obj\Debug\net6.0\dovrler.pdb
+C:\Users\asus\Desktop\dovrler\dovrler\obj\Debug\net6.0\dovrler.genruntimeconfig.cache
+C:\Users\asus\Desktop\dovrler\dovrler\obj\Debug\net6.0\ref\dovrler.dll
